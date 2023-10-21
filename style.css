@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif !important ;
+
+}
+.navbar{
+    background-color: rgb(8, 224, 224) !important;
+
+}
+.navbar a{
+    color:white;
+    font-weight: 700;
+    font-size: 20px;
+}
+.navbar a:hover{
+    border-bottom : 3px solid rgb(55, 72, 223);
+}
+.navbar .nav-item{
+    margin:0px 25px;
+}
+
+.listdata li{
+    background-color: rgb(193, 136, 182);
+    border:3px solid rgb(39, 118, 157);
+    padding: 7px;
+}
+.footer{
+    background-color: black;
+    color :white;
+
+}
+.para2{
+  padding-bottom: 20px;  
+}
+.footer h2{
+    padding-top: 15px;
+    text-align: center;
+    color:yellow;
+}
+    

@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins', sans-serif; 
+}
+body{
+    background-color:rgb(31, 159, 185);
+    
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+form label{
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+.butt{
+    text-align: center;
+    
+}
+.butt .btn{
+    width:200px;
+    border-radius: 20px;
+    background-color: rgb(51, 51, 232);
+    color:whitesmoke;
+    font-weight: 600;
+}
+
+form input:focus{
+    outline:0;
+
+}
+form input:hover{
+    background-color: rgb(155, 238, 238);
+    border: 3px solid blue;
+}
+
